@@ -1,0 +1,22 @@
+Environment
+------------
+1. needs python 2.7 installed in the system
+
+How to Run
+----------
+1. place the GameOfLife.py and Validate.py files in a common folder
+2. type "python GameOfLife.py" to run the same
+3. Give the apt inputs and enjoy
+
+
+Run the test file
+-----------------
+1. run the TestGameOfLife.py as like normal python file
+
+
+Notes
+-----
+1. It will attomatically add a two rows and two columns at the starting and end
+   to make each complete orthogonal sqaures
+
+

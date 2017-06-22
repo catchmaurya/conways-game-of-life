@@ -1,0 +1,89 @@
+>>> 
+enter the number of rows >2
+enter the number of cols >2
+enter the 1th row 1th col values >*
+enter the 1th row 2th col values >*
+enter the 2th row 1th col values >*
+enter the 2th row 2th col values >*
+The input is below
+['-', '-', '-', '-']
+['-', '*', '*', '-']
+['-', '*', '*', '-']
+['-', '-', '-', '-']
+The ouptut is below
+['-', '-', '-', '-']
+['-', '*', '*', '-']
+['-', '*', '*', '-']
+['-', '-', '-', '-']
+>>> ================================ RESTART ================================
+>>> 
+enter the number of rows >3
+enter the number of cols >3
+enter the 1th row 1th col values >*
+enter the 1th row 2th col values >*
+enter the 1th row 3th col values >-
+enter the 2th row 1th col values >*
+enter the 2th row 2th col values >-
+enter the 2th row 3th col values >*
+enter the 3th row 1th col values >-
+enter the 3th row 2th col values >*
+enter the 3th row 3th col values >-
+The input is below
+['-', '-', '-', '-', '-']
+['-', '*', '*', '-', '-']
+['-', '*', '-', '*', '-']
+['-', '-', '*', '-', '-']
+['-', '-', '-', '-', '-']
+The ouptut is below
+['-', '-', '-', '-', '-']
+['-', '*', '*', '-', '-']
+['-', '*', '-', '*', '-']
+['-', '-', '*', '-', '-']
+['-', '-', '-', '-', '-']
+>>> ================================ RESTART ================================
+>>> 
+enter the number of rows >3
+enter the number of cols >3
+enter the 1th row 1th col values >-
+enter the 1th row 2th col values >*
+enter the 1th row 3th col values >-
+enter the 2th row 1th col values >-
+enter the 2th row 2th col values >*
+enter the 2th row 3th col values >-
+enter the 3th row 1th col values >-
+enter the 3th row 2th col values >*
+enter the 3th row 3th col values >-
+The input is below
+['-', '-', '-', '-', '-']
+['-', '-', '*', '-', '-']
+['-', '-', '*', '-', '-']
+['-', '-', '*', '-', '-']
+['-', '-', '-', '-', '-']
+The ouptut is below
+['-', '-', '-', '-', '-']
+['-', '-', '-', '-', '-']
+['-', '*', '*', '*', '-']
+['-', '-', '-', '-', '-']
+['-', '-', '-', '-', '-']
+>>> ================================ RESTART ================================
+>>> 
+enter the number of rows >2
+enter the number of cols >4
+enter the 1th row 1th col values >-
+enter the 1th row 2th col values >*
+enter the 1th row 3th col values >*
+enter the 1th row 4th col values >*
+enter the 2th row 1th col values >*
+enter the 2th row 2th col values >*
+enter the 2th row 3th col values >*
+enter the 2th row 4th col values >-
+The input is below
+['-', '-', '-', '-', '-', '-']
+['-', '-', '*', '*', '*', '-']
+['-', '*', '*', '*', '-', '-']
+['-', '-', '-', '-', '-', '-']
+The ouptut is below
+['-', '-', '-', '*', '-', '-']
+['-', '*', '-', '-', '*', '-']
+['-', '*', '-', '-', '*', '-']
+['-', '-', '*', '-', '-', '-']
